@@ -1,0 +1,14 @@
+.my-section {
+
+    background-color: #1c7430;
+    color: white;
+
+}
+
+.new-section{
+    background: url("../image/2.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
